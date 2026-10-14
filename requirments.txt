@@ -1,10 +1,12 @@
+fastapi
+uvicorn
 pandas
 numpy
 scikit-learn
 imbalanced-learn
 joblib
-fastapi
-uvicorn
 pydantic
+pytest
+httpx
 matplotlib
 seaborn
